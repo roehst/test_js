@@ -1,0 +1,7 @@
+%{
+  "elixir_script": {:hex, :elixir_script, "0.32.1", "c97e753faf1dd8bc93244fec93d7c88c3a7eef85e2bad7eb3e014ba3f1e06931", [:mix], [{:estree, "~> 2.6", [hex: :estree, repo: "hexpm", optional: false]}], "hexpm", "fceb666062a4959a93fd5dd8b4ed78bdab12a20bd1387a9a6ce9ce17d5628546"},
+  "estree": {:hex, :estree, "2.7.0", "32cb6ff05c85a93bf6c646b3b184e131f699fc1e7157d2b5be148c17f43ae566", [:mix], [], "hexpm", "bbfd859ec5ee37680572a266f8c905e78706ee75a48019b468435a4af125fbb5"},
+  "jason": {:hex, :jason, "1.4.0", "e855647bc964a44e2f67df589ccf49105ae039d4179db7f6271dfd3843dc27e6", [:mix], [{:decimal, "~> 1.0 or ~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "79a3791085b2a0f743ca04cec0f7be26443738779d09302e01318f97bdb82121"},
+  "nodejs": {:hex, :nodejs, "2.0.0", "9a00d00eabf84ba7a04269de46863e0f87bdf6bc488d5a20972b38ade9012764", [:mix], [{:jason, "~> 1.0", [hex: :jason, repo: "hexpm", optional: false]}, {:poolboy, "~> 1.5.1", [hex: :poolboy, repo: "hexpm", optional: false]}], "hexpm", "3a03df7dbfba435223b4534fbf276db8be5287fbf83c828f2749bf1ffe73e930"},
+  "poolboy": {:hex, :poolboy, "1.5.2", "392b007a1693a64540cead79830443abf5762f5d30cf50bc95cb2c1aaafa006b", [:rebar3], [], "hexpm", "dad79704ce5440f3d5a3681c8590b9dc25d1a561e8f5a9c995281012860901e3"},
+}
